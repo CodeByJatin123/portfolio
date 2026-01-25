@@ -41,7 +41,15 @@ nav ul li a:hover{
     transition: all 0.5s;
 }
 
-
+.hero {
+  background-image: linear-gradient(to right, #97E8A2, #9F73F8);
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  gap: 130px;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+}
 
 
 .hero-left {
