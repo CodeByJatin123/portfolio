@@ -42,7 +42,7 @@ nav ul li a:hover{
 }
 
 .hero {
-    background-image: linear-gradient(to right, rgb(151, 232, 162), rgb(159, 115, 248));
+   background-image: linear-gradient(to right, #6EDC8A, #7B5CF5);
     height: 85vh;
     display: flex;
     justify-content: center;
@@ -204,4 +204,5 @@ footer{
 }
 .fed{
     background-color: rgb(189, 57, 57);
+
 }
