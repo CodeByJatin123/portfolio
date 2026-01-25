@@ -42,14 +42,15 @@ nav ul li a:hover{
 }
 
 .hero {
-   background-image: linear-gradient(to right, #6EDC8A, #7B5CF5);
-    height: 85vh;
-    display: flex;
-    justify-content: center;
-    gap: 130px;
-    align-items: center;
-    font-family: "Roboto", sans-serif;
+  background-image: linear-gradient(to right, #97E8A2, #9F73F8);
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  gap: 130px;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
 }
+
 
 .hero-left {
     display: flex;
@@ -206,3 +207,4 @@ footer{
     background-color: rgb(189, 57, 57);
 
 }
+
