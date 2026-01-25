@@ -90,11 +90,11 @@ background-image: linear-gradient(to right, #141E30, #243B55);
 }
 
 .btn {
-    background-color: rgb(59, 8, 132);
+    background-color: rgb(17, 17, 18);
     color: white;
     padding: 7px 9px;
     margin: 0 2px;
-    border: 2px solid purple;
+    border: 2px solid rgb(14, 13, 14);
     border-radius: 4px;
     cursor: pointer;
     font-size: 17px;
