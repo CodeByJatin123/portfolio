@@ -211,3 +211,9 @@ footer{
 .fed{
     background-color: rgb(189, 57, 57);
 }
+.github-activity{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
