@@ -212,6 +212,7 @@ footer{
     background-color: rgb(189, 57, 57);
 }
 .github-activity{
+    border-radius: 20px;
     background-image: black;
     background-color: black;
     display: flex;
