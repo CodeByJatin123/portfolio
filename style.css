@@ -212,6 +212,8 @@ footer{
     background-color: rgb(189, 57, 57);
 }
 .github-activity{
+    margin: 0%;
+    padding: 0%;
     border-radius: 60px;
    background-image: linear-gradient(to right, #1E1E2F, #48bb95);
     background-color: black;
